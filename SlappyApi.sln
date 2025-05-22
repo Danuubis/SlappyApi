@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlappyApi", "SlappyApi\SlappyApi.csproj", "{53145510-BCC8-4A9A-8099-11F5EDD9AF37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53145510-BCC8-4A9A-8099-11F5EDD9AF37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53145510-BCC8-4A9A-8099-11F5EDD9AF37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53145510-BCC8-4A9A-8099-11F5EDD9AF37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53145510-BCC8-4A9A-8099-11F5EDD9AF37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92D03F77-06F3-49B4-A439-0C13E4F7D88C}
+	EndGlobalSection
+EndGlobal

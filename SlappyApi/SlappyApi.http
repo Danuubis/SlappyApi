@@ -1,0 +1,6 @@
+@SlappyApi_HostAddress = http://localhost:5248
+
+GET {{SlappyApi_HostAddress}}/api/
+Accept: application/json
+
+###
