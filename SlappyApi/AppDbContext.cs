@@ -11,7 +11,6 @@ namespace SlappyApi.Data
         }
 
         public DbSet<Carta> Cartas { get; set; }
-        public DbSet<CartaMazo> CartasMazos { get; set; }
         public DbSet<Notice> Noticias { get; set; }
         public DbSet<Producto> Productos { get; set; }
 

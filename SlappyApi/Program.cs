@@ -11,7 +11,6 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 );
 
 builder.Services.AddScoped<CartaService>();
-builder.Services.AddScoped<CartaMazoService>();
 builder.Services.AddScoped<NoticeService>();
 builder.Services.AddScoped<ProductoService>();
 
